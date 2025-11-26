@@ -21,3 +21,6 @@ Clean, readable layout
 index.html – Table structure
 
 style.css – Styles for table and page
+https://ism5il.github.io/rnu-table/
+https://ism5il.github.io/rnu-table/
+https://ism5il.github.io/rnu-table/

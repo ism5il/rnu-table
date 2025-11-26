@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    text-align: left;
+}
+
+th, td {
+    border: 1px solid #f0d97c; /* светло-жёлтые линии */
+    padding: 8px 12px;
+}
+
+th {
+    background-color: #fcefb4; /* светло-жёлтый фон */
+    font-weight: bold;
+}
+
+td {
+    height: 28px; /* высота строк */
+}
